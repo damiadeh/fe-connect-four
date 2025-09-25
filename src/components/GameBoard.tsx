@@ -69,7 +69,7 @@ const GameBoard: React.FC = () => {
         sx={{ 
           marginBottom: 2, 
           minHeight: '2rem',
-          color: gameState.currentPlayer === 'red' ? '#d32f2f' : '#1976d2',
+          color: gameState.currentPlayer === 'red' ? 'black' : 'red',
           fontWeight: 'bold',
         }}
       >

@@ -17,6 +17,8 @@ npm run dev
 npm run test
 ```
 
+App Demo: https://www.loom.com/share/517cc2158fa74b2bba195c11af4d6c78?sid=a86a5d39-2c59-41dc-9038-299f103ae739
+
 The game will be available at `http://localhost:3000`
 
 # Tellos Frontend Engineer Takehome Test (Instructions)
