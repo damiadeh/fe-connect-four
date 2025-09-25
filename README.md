@@ -12,6 +12,11 @@ npm i
 npm run dev
 ```
 
+3. Run Test
+```bash
+npm run test
+```
+
 The game will be available at `http://localhost:3000`
 
 # Tellos Frontend Engineer Takehome Test (Instructions)
